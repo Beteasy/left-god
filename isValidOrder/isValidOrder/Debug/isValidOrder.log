@@ -1,0 +1,3 @@
+﻿  isValidOrder.cpp
+e:\leftgod\isvalidorder\isvalidorder\isvalidorder.cpp(33): warning C4018: “>”: 有符号/无符号不匹配
+  isValidOrder.vcxproj -> E:\leftGod\isValidOrder\Debug\isValidOrder.exe
